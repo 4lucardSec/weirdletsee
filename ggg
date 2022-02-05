@@ -1,0 +1,7 @@
+<script>:                                                                                                                                             
+             cannot open `<script>' (No such file or directory)
+    $.ajaxSetup({headers: {'X-CSRF-Token': '7XjBbRLaogEr61T068DUBUKTklv12dkX7b5AI8bN'}});:                                                            
+             cannot open `    $.ajaxSetup({headers: {'X-CSRF-Token': '7XjBbRLaogEr61T068DUBUKTklv12dkX7b5AI8bN'}});' (No such file or directory)
+    var app_csrf_token = "7XjBbRLaogEr61T068DUBUKTklv12dkX7b5AI8bN";:                                                                                 
+             cannot open `    var app_csrf_token = "7XjBbRLaogEr61T068DUBUKTklv12dkX7b5AI8bN";' (No such file or directory)
+</script>:        
